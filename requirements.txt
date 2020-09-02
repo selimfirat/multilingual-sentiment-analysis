@@ -1,0 +1,14 @@
+torch
+transformers
+numpy
+tqdm
+mlflow
+scikit-multilearn
+plotly
+emoji
+h5py
+scikit-learn
+bokeh
+optuna
+SciencePlots
+ekphrasis
